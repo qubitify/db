@@ -1,0 +1,49 @@
+{
+  "title": "데이터 시각화 및 차트 연동",
+  "summary": "Pandas 데이터프레임을 st.line_chart로 표시하는 방법과 Matplotlib 차트를 연동하는 방법에 대해 문의함.",
+  "counselor_name": "이서연",
+  "start_time": "2025-06-11T14:30:00.000000",
+  "end_time": "2025-06-11T15:15:00.000000",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Pandas 데이터프레임으로 라인 차트를 어떻게 그리나요?"
+    },
+    {
+      "role": "assistant",
+      "content": "st.line_chart() 함수를 사용하시면 간단하게 그릴 수 있습니다. 데이터프레임을 인자로 전달하기만 하면 됩니다.",
+      "source": "https://docs.streamlit.io/library/api-reference/charts/st.line_chart",
+      "timestamp": "20250611143200000000"
+    },
+    {
+      "role": "user",
+      "content": "더 복잡한 차트, 예를 들어 Matplotlib으로 그린 차트도 가능한가요?"
+    },
+    {
+      "role": "assistant",
+      "content": "네, 가능합니다. Matplotlib으로 차트(figure)를 생성하신 후, st.pyplot(fig)을 호출하여 앱에 표시할 수 있습니다.",
+      "source": "https://docs.streamlit.io/library/api-reference/charts/st.pyplot",
+      "timestamp": "20250611145500000000"
+    },
+    {
+      "role": "user",
+      "content": "ㅇㅇㅇ"
+    },
+    {
+      "role": "assistant",
+      "content": "'ㅇㅇㅇ'에 대한 답변입니다.",
+      "source": "https://docs.streamlit.io",
+      "timestamp": "2025-06-11T18:39:30.638596"
+    },
+    {
+      "role": "user",
+      "content": "ㅇㄹㅇㄹ"
+    },
+    {
+      "role": "assistant",
+      "content": "'ㅇㄹㅇㄹ'에 대한 답변입니다. 이 답변은 예시입니다.",
+      "source": "https://docs.streamlit.io",
+      "timestamp": "2025-06-11T18:46:07.997622"
+    }
+  ]
+}

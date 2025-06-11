@@ -1,0 +1,19 @@
+{
+  "title": "Streamlit 기본 기능 문의",
+  "summary": "Streamlit의 st.write와 st.button 사용법에 대한 초기 상담입니다.",
+  "counselor_name": "김민준",
+  "start_time": "2025-06-12T10:01:00.000000",
+  "end_time": null,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Streamlit이 무엇인가요?"
+    },
+    {
+      "role": "assistant",
+      "content": "'Streamlit이 무엇인가요?'에 대한 답변입니다. 이 답변은 예시로 생성되었습니다.",
+      "source": "https://docs.streamlit.io",
+      "timestamp": "20250612100100000000"
+    }
+  ]
+}

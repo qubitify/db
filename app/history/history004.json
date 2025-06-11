@@ -1,0 +1,19 @@
+{
+  "title": "캐싱 기능(@st.cache_data) 문의",
+  "summary": "느린 데이터 로딩 함수에 캐싱을 적용하여 앱 성능을 개선하는 방법에 대해 상담. 파라미터 변경 시 캐시가 어떻게 동작하는지 질문함.",
+  "counselor_name": "최지우",
+  "start_time": "2025-06-10T16:00:00.000000",
+  "end_time": "2025-06-10T16:45:00.000000",
+  "messages": [
+    {
+      "role": "user",
+      "content": "앱 로딩이 너무 느립니다. 데이터를 불러오는 함수에 캐싱을 적용하고 싶습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "네, 그런 경우에는 @st.cache_data 데코레이터를 사용하시는 것을 추천합니다. 함수 위에 한 줄만 추가하면 함수의 실행 결과를 캐시에 저장하여 다음 호출부터는 매우 빠르게 결과를 반환합니다.",
+      "source": "https://docs.streamlit.io/library/api-reference/performance/st.cache_data",
+      "timestamp": "20250610160500000000"
+    }
+  ]
+}
